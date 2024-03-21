@@ -1,0 +1,8 @@
+<!DOCTYPE codename-mod-credits>
+<menu name="Lobotomy Clicker" desc="uhhhhhhhhhhhhhhhhh yeah..">
+	<!-- \/ You can also set the portrait shader as false as you can see below in the github one -->
+	<credit name="Jikkenthe10th" desc="IT'S JIKKENTHE'10'TH GRR GET IT RIGHT ALPHABET.HX... Mod creator" icon="jikken" portrait="false" size="119" url="https://twitter.com/jikkenthe10th"/>
+	<credit name="GD colon" desc="GD cologne. Used his GD font generator website" icon="colon" portrait="false" size="98" url="https://gdcolon.com/"/>
+	<credit name="RobTop Games" desc="Robert game. Creator of GD, used some assets from the game" icon="rob" size="100" url="https://www.robtopgames.com/"/>
+	<credit name="Kevin Macleod" desc="Used his music instead because im too lazy to make original music hoough,,," icon="kevinmcleod" size="100" url="https://en.wikipedia.org/wiki/Kevin_MacLeod"/>
+</menu>

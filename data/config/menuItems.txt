@@ -1,0 +1,5 @@
+clicker
+story mode
+freeplay
+options
+donate

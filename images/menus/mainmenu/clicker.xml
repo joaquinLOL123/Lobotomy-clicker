@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clicker.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clicker basic0000" x="0" y="0" width="519" height="142" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0001" x="0" y="0" width="519" height="142" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0002" x="0" y="0" width="519" height="142" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0003" x="0" y="142" width="518" height="143" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0004" x="0" y="142" width="518" height="143" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0005" x="0" y="142" width="518" height="143" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0006" x="0" y="285" width="518" height="143" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0007" x="0" y="285" width="518" height="143" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker basic0008" x="0" y="285" width="518" height="143" frameX="0" frameY="0" frameWidth="519" frameHeight="143"/>
+	<SubTexture name="clicker white0000" x="0" y="428" width="580" height="166" frameX="0" frameY="0" frameWidth="581" frameHeight="166"/>
+	<SubTexture name="clicker white0001" x="0" y="594" width="579" height="163" frameX="-2" frameY="-2" frameWidth="581" frameHeight="166"/>
+	<SubTexture name="clicker white0002" x="0" y="757" width="576" height="164" frameX="-2" frameY="0" frameWidth="581" frameHeight="166"/>
+</TextureAtlas>
